@@ -1,4 +1,4 @@
-https://projeto-organo-alura-topaz.vercel.a
+https://projeto-organo-alura-topaz.vercel
 
 # Getting Started with Create React App
 
